@@ -8,3 +8,5 @@ pip uninstall -y -r <(pip freeze) # <()
 pip install discord.py-self
 
 pip install flask
+
+You may edit line 11 to change your status. (eg. dnd, idle and Online)
