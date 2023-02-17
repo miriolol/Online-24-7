@@ -7,6 +7,8 @@ pip uninstall -y -r <(pip freeze) # <()
 
 pip install discord.py-self
 
+pip install pynacl
+
 pip install flask
 
 Make sure to select main.py as the default entry point.
