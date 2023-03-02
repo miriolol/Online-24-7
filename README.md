@@ -5,11 +5,7 @@ Make sure to run the commands below in shell in order:
 
 pip uninstall -y -r <(pip freeze) # <()
 
-pip install discord.py-self
-
-pip install pynacl
-
-pip install flask
+pip install -r requirements.txt
 
 Make sure to select main.py as the default entry point.
 
