@@ -3,7 +3,7 @@ Allows you to keep your account online 24/7.
 
 Make sure to select main.py as the default entry point.
 
-run the commands below in shell in order:
+Run the commands below in shell in order:
 
 pip uninstall -y -r <(pip freeze) # <()
 
